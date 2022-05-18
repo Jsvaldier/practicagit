@@ -1,0 +1,16 @@
+h1{
+    color: teal;
+    text-align: center;
+}
+
+p{
+    color: cadetblue;
+    text-align: justify;
+}
+
+#contenedor1{
+    width: 80%;
+    padding: 1em;
+    border: 2px solid black;
+    margin: 0 auto  ;
+}
