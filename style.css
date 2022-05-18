@@ -1,14 +1,16 @@
 h1{
-    color: teal;
+    color: rgba(79, 4, 84, 0.515);
     text-align: center;
 }
 
 p{
-    color: cadetblue;
+    color: rgb(205, 83, 7);
     text-align: justify;
+    font-size: x-large
 }
 
 #contenedor1{
+    background-color: rgb(46, 100, 97);
     width: 80%;
     padding: 1em;
     border: 2px solid black;
